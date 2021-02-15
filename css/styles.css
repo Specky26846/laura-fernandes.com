@@ -1,0 +1,9 @@
+body {
+    background-color: pink;;
+}
+
+
+.navbar-brand:hover {
+color: #ff577f !important;
+}
+
